@@ -1,0 +1,2302 @@
+{
+  "code": 200,
+  "data": {
+    "imgNewsList": [
+      {
+        "id": "20220323002079",
+        "type": "1",
+        "created": 1648005869000,
+        "title": "北市議員林穎孟現身了<br>喊冤：司法會還清白",
+        "subTitle": "",
+        "catShowIds": [
+          260402
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:24:29",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323002080.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002079-260402",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001904",
+        "type": "1",
+        "created": 1648003845000,
+        "title": "北市中山北路大樓火警<br>屋主曝「曾聽到爆炸聲」",
+        "subTitle": "",
+        "catShowIds": [
+          260402
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:50:45",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001905.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001904-260402",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220322000013",
+        "type": "1",
+        "created": 1647981328000,
+        "title": "單買足球正確比數 <br>這3人都抱回450倍獎金",
+        "subTitle": "",
+        "catShowIds": [
+          260403
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T04:35:28",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-22/Miscellaneous/h20220322637835781274912436.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220322000013-260403?chdtv",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001928",
+        "type": "1",
+        "created": 1648004382000,
+        "title": "雨彈開炸「山區防坍方」<br>5縣市大雨特報",
+        "subTitle": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:59:42",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/Miscellaneous/h20220323637836012908173230.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001928-260405",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001884",
+        "type": "1",
+        "created": 1648003705000,
+        "title": "專案泡泡又增波蘭代表確診<br>和柯P在智慧城巿論壇同場",
+        "subTitle": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:48:25",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/Miscellaneous/h20220323637836005053312556.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001884-260405",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "0",
+        "type": "6",
+        "created": 1647981246000,
+        "title": "暢遊桃園地景藝術節<br>體驗自然與人文之美",
+        "subTitle": "",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T04:34:06",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-22/Miscellaneous/h20220322637835780461931881.jpg",
+        "hyperLink": "https://bit.ly/3Jyw60f",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001946",
+        "type": "1",
+        "created": 1648006108000,
+        "title": "殲-11B升級版加入南海軍演<br>陸海軍戰力大增",
+        "subTitle": "",
+        "catShowIds": [
+          260417
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:28:28",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323002043.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001946-260417",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001781",
+        "type": "1",
+        "created": 1648005801000,
+        "title": "通膨炸彈引爆<br>華爾街「狼王」曝恐怖下場",
+        "subTitle": "",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:23:21",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001782.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001781-260410",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001078",
+        "type": "1",
+        "created": 1647993147000,
+        "title": "拜登將在歐洲峰會時宣布<br>擴大對俄羅斯新制裁",
+        "subTitle": "",
+        "catShowIds": [
+          260408
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T07:52:27",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/Miscellaneous/h20220323637836009385650129.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001078-260408",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001795",
+        "type": "1",
+        "created": 1648003959000,
+        "title": "譚再利》志願軍赴烏克蘭<br>看到外交部的虛偽",
+        "subTitle": "",
+        "catShowIds": [
+          262103
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:52:39",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-22/656/20220322002220.png",
+        "hyperLink": "https://www.chinatimes.com/opinion/20220323001795-262103",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001173",
+        "type": "1",
+        "created": 1648002946000,
+        "title": "被人夫緊咬天天傳訊曖昧<br>陳美鳳親解感情現況",
+        "subTitle": "",
+        "catShowIds": [
+          260404
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:35:46",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001174.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001173-260404",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001749",
+        "type": "1",
+        "created": 1648002842000,
+        "title": "役期是否延長？<br>邱國正曝「今年會決定」",
+        "subTitle": "",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:34:02",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001789.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001749-260407",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001704",
+        "type": "1",
+        "created": 1648002017000,
+        "title": "國寶級歌仔戲小生昏迷送醫<br>女兒唐美雲曝最新病況",
+        "subTitle": "",
+        "catShowIds": [
+          260404
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:20:17",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001706.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001704-260404",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001586",
+        "type": "1",
+        "created": 1648002040000,
+        "title": "張錫銘假釋遭拒14次<br>行政訴訟被法官2理由駁回",
+        "subTitle": "",
+        "catShowIds": [
+          260402
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:20:40",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001638.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001586-260402",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001709",
+        "type": "1",
+        "created": 1648001511000,
+        "title": "花蓮又有規模4.5地震<br>最大震度台東3級",
+        "subTitle": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:11:51",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001714.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001709-260405",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001545",
+        "type": "1",
+        "created": 1648000435000,
+        "title": "凌晨強震威力同20顆原子彈<br>學者揭1關鍵：不是壞事",
+        "subTitle": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 1,
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T09:53:55",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/Miscellaneous/h20220323637835973403068507.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001545-260405",
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      }
+    ],
+    "fastlist": [
+      
+    ],
+    "list": [
+      {
+        "id": "20220323002162",
+        "type": "1",
+        "created": 1648006146000,
+        "title": "綠營新北初選登記第3天  湧言會與正國會6名擬參選人領表",
+        "catShowIds": [
+          260407
+        ],
+        "catShowTag": {
+          "name": "政治",
+          "color": "#ffffff"
+        },
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:29:06",
+        "publishDatetimeGMT": 1648006146000,
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002163.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002162-260407"
+      },
+      {
+        "id": "20220323001896",
+        "type": "1",
+        "created": 1648003405000,
+        "title": "王毅見埃及外長舒克里反對烏克蘭問題向中方施壓",
+        "catShowIds": [
+          260409
+        ],
+        "catShowTag": {
+          "name": "兩岸",
+          "color": "#ffffff"
+        },
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:43:25",
+        "publishDatetimeGMT": 1648003405000,
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323001897.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001896-260409"
+      },
+      {
+        "id": "20220323001898",
+        "type": "1",
+        "created": 1648003780000,
+        "title": "彭淮南的重購退稅優惠 財長：全民適用",
+        "catShowIds": [
+          260410
+        ],
+        "catShowTag": {
+          "name": "財經",
+          "color": "#ffffff"
+        },
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:49:40",
+        "publishDatetimeGMT": 1648003780000,
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323001899.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001898-260410"
+      },
+      {
+        "id": "6982",
+        "type": "0",
+        "created": 1646654400000,
+        "title": "2022大學博覽會線上展 也可以透過線上展覽參與諮詢",
+        "catShowIds": [
+          0
+        ],
+        "catShowTag": null,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-07T20:00:00",
+        "publishDatetimeGMT": 0,
+        "imgUrl": "https://images.chinatimes.com/newsphoto/ADArticles/6982.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220306703408-260405"
+      },
+      {
+        "id": "6980",
+        "type": "0",
+        "created": 1646236800000,
+        "title": "連續第五年調薪、平均調漲7% 房仲加薪第一槍",
+        "catShowIds": [
+          0
+        ],
+        "catShowTag": null,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-03T00:00:00",
+        "publishDatetimeGMT": 0,
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-09/330/20220309003029.jpg",
+        "hyperLink": "https://www.chinatimes.com/album/yungching/20181016003913-262211"
+      }
+    ],
+    "realList": [
+      {
+        "id": "20220323002050",
+        "categoryID": 260405,
+        "type": "1",
+        "created": 1648035014000,
+        "title": "提升疫苗覆蓋率「 這3類人」打疫苗中市加碼發500元現金",
+        "content": "",
+        "catShowIds": [
+          260405
+        ],
+        "catShowTag": {
+          "name": "生活",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "林欣儀"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002051.jpg",
+        "srctitle": "中時 ",
+        "categoryName": "生活",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002050-260405",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:30:14",
+        "publishDatetimeGMT": 1648006214000,
+        "categoryIdwww": 260405,
+        "categoryEngName": "realtimenews-life",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002029",
+        "categoryID": 260407,
+        "type": "1",
+        "created": 1648034978000,
+        "title": "挺徐巧芯   羅智強「誠懇建議」：國民黨要道歉",
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "catShowTag": {
+          "name": "政治",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "黃朝郁"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-15/330/20220315000925.jpg",
+        "srctitle": "中時新聞網",
+        "categoryName": "政治",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002029-260407",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:29:38",
+        "publishDatetimeGMT": 1648006178000,
+        "categoryIdwww": 260407,
+        "categoryEngName": "realtimenews-politic",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002162",
+        "categoryID": 260407,
+        "type": "1",
+        "created": 1648034946000,
+        "title": "綠營新北初選登記第3天  湧言會與正國會6名擬參選人領表",
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "catShowTag": {
+          "name": "政治",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "陳慰慈"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002163.jpg",
+        "srctitle": "中時 ",
+        "categoryName": "政治",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002162-260407",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:29:06",
+        "publishDatetimeGMT": 1648006146000,
+        "categoryIdwww": 260407,
+        "categoryEngName": "realtimenews-politic",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002194",
+        "categoryID": 260409,
+        "type": "1",
+        "created": 1648034883000,
+        "title": "東航空難 副機長是民航局功勛機師 原訂今年退休",
+        "content": "",
+        "catShowIds": [
+          260409
+        ],
+        "catShowTag": {
+          "name": "兩岸",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "林勁傑"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002195.jpg",
+        "srctitle": "中時 ",
+        "categoryName": "兩岸",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002194-260409",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:28:03",
+        "publishDatetimeGMT": 1648006083000,
+        "categoryIdwww": 260409,
+        "categoryEngName": "realtimenews-mainland",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002168",
+        "categoryID": 260412,
+        "type": "1",
+        "created": 1648034857000,
+        "title": "萌系休閒放置手機遊戲《蒼穹英雄》事前預約火熱開跑",
+        "content": "",
+        "catShowIds": [
+          260412
+        ],
+        "catShowTag": {
+          "name": "科技",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "綜合報導"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002188.jpg",
+        "srctitle": "科技",
+        "categoryName": "科技",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002168-260412",
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T11:27:37",
+        "publishDatetimeGMT": 1648006057000,
+        "categoryIdwww": 260412,
+        "categoryEngName": "realtimenews-technology",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002008",
+        "categoryID": 260404,
+        "type": "1",
+        "created": 1648034849000,
+        "title": "意外痛失第二胎愛女 毛加恩嬌妻淚曝嚴重病況：發現怪怪的",
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "catShowTag": {
+          "name": "娛樂",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "吳品瑤"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002014.jpg",
+        "srctitle": "中時新聞網",
+        "categoryName": "娛樂",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002008-260404",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:27:29",
+        "publishDatetimeGMT": 1648006049000,
+        "categoryIdwww": 260404,
+        "categoryEngName": "realtimenews-showbiz",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002122",
+        "categoryID": 260405,
+        "type": "1",
+        "created": 1648034779000,
+        "title": "品觀點｜燒掉最後一根菸 婦幼團體盼立委修法 支持無煙世代",
+        "content": "",
+        "catShowIds": [
+          260405
+        ],
+        "catShowTag": {
+          "name": "生活",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "品觀點"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002123.jpg",
+        "srctitle": "中時新聞網",
+        "categoryName": "生活",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002122-260405",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:26:19",
+        "publishDatetimeGMT": 1648005979000,
+        "categoryIdwww": 260405,
+        "categoryEngName": "realtimenews-life",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002112",
+        "categoryID": 260407,
+        "type": "1",
+        "created": 1648034666000,
+        "title": "反思和平的重要性  她擬辦「和平愛台灣大遊行」",
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "catShowTag": {
+          "name": "政治",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "林良齊"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002113.jpg",
+        "srctitle": "中時 ",
+        "categoryName": "政治",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002112-260407",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:24:26",
+        "publishDatetimeGMT": 1648005866000,
+        "categoryIdwww": 260407,
+        "categoryEngName": "realtimenews-politic",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002012",
+        "categoryID": 260421,
+        "type": "1",
+        "created": 1648034662000,
+        "title": "假「姪子」來電要22萬元周轉 指定帳戶露餡",
+        "content": "",
+        "catShowIds": [
+          260421
+        ],
+        "catShowTag": {
+          "name": "寶島",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "馮惠宜"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002013.jpg",
+        "srctitle": "中時 ",
+        "categoryName": "寶島",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002012-260421",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:24:22",
+        "publishDatetimeGMT": 1648005862000,
+        "categoryIdwww": 260421,
+        "categoryEngName": "realtimenews-taiwan",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002119",
+        "categoryID": 260409,
+        "type": "1",
+        "created": 1648034605000,
+        "title": "上海改建閔行、嘉定體育館 集中隔離輕症、無症狀感染者",
+        "content": "",
+        "catShowIds": [
+          260409
+        ],
+        "catShowTag": {
+          "name": "兩岸",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "吳泓勳"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002120.jpg",
+        "srctitle": "旺報 ",
+        "categoryName": "兩岸",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002119-260409",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:23:25",
+        "publishDatetimeGMT": 1648005805000,
+        "categoryIdwww": 260409,
+        "categoryEngName": "realtimenews-mainland",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323001945",
+        "categoryID": 260404,
+        "type": "1",
+        "created": 1648034557000,
+        "title": "半夜6.6地震尪掀921陰影喊快跑 女星淡定1句話網推爆",
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "catShowTag": {
+          "name": "娛樂",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "吳宜珊"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323001961.jpg",
+        "srctitle": "中時新聞網",
+        "categoryName": "娛樂",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001945-260404",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:22:37",
+        "publishDatetimeGMT": 1648005757000,
+        "categoryIdwww": 260404,
+        "categoryEngName": "realtimenews-showbiz",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002060",
+        "categoryID": 260407,
+        "type": "1",
+        "created": 1648034458000,
+        "title": "搶攻青年票 民眾黨議員參選人聯名柯文哲設元宇宙競總",
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "catShowTag": {
+          "name": "政治",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "林縉明"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002061.jpg",
+        "srctitle": "中時 ",
+        "categoryName": "政治",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002060-260407",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:20:58",
+        "publishDatetimeGMT": 1648005658000,
+        "categoryIdwww": 260407,
+        "categoryEngName": "realtimenews-politic",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323001992",
+        "categoryID": 260404,
+        "type": "1",
+        "created": 1648034441000,
+        "title": "伊能靜額頭冒白點是整形後遺症？她不忍了揭真實原因",
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "catShowTag": {
+          "name": "娛樂",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "周郁蘋"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323001996.jpg",
+        "srctitle": "中時新聞網",
+        "categoryName": "娛樂",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001992-260404",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:20:41",
+        "publishDatetimeGMT": 1648005641000,
+        "categoryIdwww": 260404,
+        "categoryEngName": "realtimenews-showbiz",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002006",
+        "categoryID": 260407,
+        "type": "1",
+        "created": 1648034415000,
+        "title": "游錫堃存款增460萬 蔡其昌賣千萬土地 最新財產申報曝光",
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "catShowTag": {
+          "name": "政治",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "崔慈悌"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002007.jpg",
+        "srctitle": "中時 ",
+        "categoryName": "政治",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002006-260407",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:20:15",
+        "publishDatetimeGMT": 1648005615000,
+        "categoryIdwww": 260407,
+        "categoryEngName": "realtimenews-politic",
+        "location": "",
+        "articleCount": 0
+      },
+      {
+        "id": "20220323002096",
+        "categoryID": 260412,
+        "type": "1",
+        "created": 1648034346000,
+        "title": "《蒼天英雄誌2》舉辦「500日感謝祭」慶祝活動",
+        "content": "",
+        "catShowIds": [
+          260412
+        ],
+        "catShowTag": {
+          "name": "科技",
+          "color": "#ffffff"
+        },
+        "authors": [
+          "綜合報導"
+        ],
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323002115.jpg",
+        "srctitle": "科技",
+        "categoryName": "科技",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002096-260412",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:19:06",
+        "publishDatetimeGMT": 1648005546000,
+        "categoryIdwww": 260412,
+        "categoryEngName": "realtimenews-technology",
+        "location": "",
+        "articleCount": 0
+      }
+    ],
+    "imgNewsKeyword": [
+      {
+        "id": "0",
+        "type": "1",
+        "created": 0,
+        "title": "地震",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-20T12:07:58",
+        "imgUrl": "",
+        "hyperLink": "https://www.chinatimes.com/search/地震"
+      },
+      {
+        "id": "0",
+        "type": "1",
+        "created": 0,
+        "title": "東航",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-21T17:11:36",
+        "imgUrl": "",
+        "hyperLink": "https://www.chinatimes.com/search/東航"
+      },
+      {
+        "id": "0",
+        "type": "1",
+        "created": 0,
+        "title": "烏克蘭",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-20T12:07:34",
+        "imgUrl": "",
+        "hyperLink": "https://www.chinatimes.com/search/烏克蘭"
+      },
+      {
+        "id": "0",
+        "type": "1",
+        "created": 0,
+        "title": "普丁",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-18T07:03:59",
+        "imgUrl": "",
+        "hyperLink": "https://www.chinatimes.com/search/普丁"
+      },
+      {
+        "id": "0",
+        "type": "1",
+        "created": 0,
+        "title": "習近平",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-18T07:03:34",
+        "imgUrl": "",
+        "hyperLink": "https://www.chinatimes.com/search/習近平"
+      }
+    ],
+    "albumlist": [
+      {
+        "id": "20210325002992",
+        "type": "1",
+        "title": "趙少康拒接聘書 藍營曝黨主席唯一條件",
+        "catShowIds": [
+          260407
+        ],
+        "imgContents": null,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-25T19:16:45",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-03-25/656/20210325003000.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210325002992-260407"
+      },
+      {
+        "id": "20210325003436",
+        "type": "1",
+        "title": "自美返台補教師確診 趴趴走3個月 匡列10接觸者",
+        "catShowIds": [
+          260405
+        ],
+        "imgContents": null,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-25T19:15:59",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-03-25/656/20210325003464.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210325003436-260405"
+      },
+      {
+        "id": "20210325002684",
+        "type": "1",
+        "title": "好想當千萬富翁 1、2月統一發票獎號出爐",
+        "catShowIds": [
+          260410
+        ],
+        "imgContents": null,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-25T18:16:59",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-03-25/656/20210325003009.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210325002684-260410"
+      },
+      {
+        "id": "20210325003397",
+        "type": "1",
+        "title": "4天5千醫護接種 3成發燒 9人不良反應",
+        "catShowIds": [
+          260405
+        ],
+        "imgContents": null,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-25T18:19:43",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-03-12/656/20210312003216.png",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210325003397-260405"
+      },
+      {
+        "id": "20210325001462",
+        "type": "1",
+        "title": "中科院首度證實 研製遠程飛彈",
+        "catShowIds": [
+          260407
+        ],
+        "imgContents": null,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-25T18:15:10",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-03-25/656/20210325001526.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210325001462-260407"
+      },
+      {
+        "id": "20181016003913",
+        "type": "7",
+        "title": "年年獲頒「運動企業認證」的優質品牌　攜手天母國小舉辦籃球賽",
+        "catShowIds": [
+          262211
+        ],
+        "imgContents": null,
+        "bVideo": 0,
+        "publishDatetime": "2021-02-28T04:32:41",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-12-22/Miscellaneous/h20201222637442476732043600.jpg",
+        "hyperLink": "https://www.chinatimes.com/album/yungching/20181016003913-262211?chdtv"
+      }
+    ],
+    "tubelist": [
+      {
+        "id": "20220323000101",
+        "type": "1",
+        "title": "花東6.6強震玉里驚傳橋倒塌 鋼筋外露民眾嚇壞",
+        "catShowIds": [
+          260405
+        ],
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T09:20:16",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323000102.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323000101-260405",
+        "content": "今天凌晨1點41分、43分，花蓮相繼發生規模6.6、6.1地震，花蓮最大震度5強，不少民眾深夜被震醒，陸續接到國家級警報通知，花蓮消防局目前未接獲重大災情進線，僅南區零星瓦斯瓶傾倒報案，玉里鎮玉興橋新",
+        "bCaptionOnPic": 1,
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323000052",
+        "type": "1",
+        "title": "黑夜震到天明！第九起有感地震 台東長濱規模4.6",
+        "catShowIds": [
+          260405
+        ],
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T09:11:02",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323000802.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323000052-260405",
+        "content": "(6:45更新)凌晨6:43分，台東縣長濱鄉再度發生規模4.6地震，最大震度台東3級、花蓮3級，中部地區也有感，此次地震也是今晚扣除未列編號小區域地震除外的第9次有感地震。\r\n\r\n(5:45更新)凌晨",
+        "bCaptionOnPic": 1,
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220323001073",
+        "type": "1",
+        "title": "花蓮服飾店狂搖55秒！恐怖畫面曝光 網驚：沒快轉",
+        "catShowIds": [
+          260405
+        ],
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T09:10:33",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/330/20220323001079.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001073-260405",
+        "content": "台灣今凌晨接連發生40多起地震，其中在1時41分發生規模6.6強震，讓國家級警報大響。一名花蓮女網友分享監視器畫面，只見服飾店裡的衣服隨著地震左右晃，甚至有一排衣服直接被甩到地上。而原PO也強調影片完",
+        "bCaptionOnPic": 1,
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220322001674",
+        "type": "1",
+        "title": "東航垂直墜落！專家揭「失事時飛機資料」曝不正常",
+        "catShowIds": [
+          260409
+        ],
+        "bVideo": 1,
+        "publishDatetime": "2022-03-22T14:14:44",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-22/330/20220322001675.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220322001674-260409",
+        "content": "大陸澎湃新聞22日報導，中國民用航空局官網通報，東航一架波音737客機21日於梧州墜毀。澎湃新聞報導，大陸航空專家初步分析，推測「飛行員已經沒有辦法再控制飛機的控制面，飛行員的操縱動作不能改變飛機的姿",
+        "bCaptionOnPic": 1,
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220322001183",
+        "type": "1",
+        "title": "習拜通話「講清楚了」驚呆港媒 警告台灣3件事",
+        "catShowIds": [
+          260407
+        ],
+        "bVideo": 1,
+        "publishDatetime": "2022-03-22T14:15:18",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-22/330/20220322001191.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220322001183-260407",
+        "content": "中國國家主席習近平與美國總統拜登18日視訊通話，內容提及台海問題。港媒認為雙方「都把話講清楚了」，尤其拜登重申對「一個中國」政策的支持並反對台獨，對台灣有重大啟示、台灣應「好自為之」，因習拜通話背後暗",
+        "bCaptionOnPic": 1,
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      },
+      {
+        "id": "20220322001121",
+        "type": "1",
+        "title": "疑性侵台中女害墜樓 男跪人行道被毆滿臉血 ",
+        "catShowIds": [
+          260402
+        ],
+        "bVideo": 1,
+        "publishDatetime": "2022-03-22T14:16:43",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-22/330/20220322001122.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220322001121-260402",
+        "content": "台中市1名賴姓男子遭痛打到滿臉是血，在人行道下跪向一群男子供稱，他性侵一名張姓女子，對方悲憤墜樓身亡，這支被動用私刑的影片在社群網路流傳，台中市政府警察局第六分局市政派出所21日下午5時35分許，接獲",
+        "bCaptionOnPic": 1,
+        "colorBGTop": "#00000000",
+        "colorBGBottom": "#99000000",
+        "colorFont": "#ffee77"
+      }
+    ],
+    "politiclist": [
+      {
+        "id": "20220323000805",
+        "type": "1",
+        "created": 0,
+        "title": "頭條揭密》台灣應延長役期？先看俄烏役制對戰力的影響",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T04:43:25",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323000811.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323000805-260407"
+      },
+      {
+        "id": "20220323001547",
+        "type": "1",
+        "created": 0,
+        "title": "具名檢舉被爆出 徐巧芯臉書發聲了",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T09:53:44",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-02-27/656/20220227002163.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001547-260407"
+      },
+      {
+        "id": "20220323001231",
+        "type": "1",
+        "created": 0,
+        "title": "「太陽花」美女議員林穎孟慘睡拘留室   媒體人驚爆：悲劇",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T09:02:06",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-02-27/656/20220227001614.png",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001231-260407"
+      },
+      {
+        "id": "20220323001082",
+        "type": "1",
+        "created": 0,
+        "title": "蔡英文與安倍晉三視訊對談 網友看完竟「神回」3字",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T08:25:20",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001083_20220323075017.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001082-260407"
+      },
+      {
+        "id": "20220323001068",
+        "type": "1",
+        "created": 0,
+        "title": "整夜狂震蔡英文也醒了   凌晨臉書問這句網友回應一面倒",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T07:49:36",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001069.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001068-260407"
+      }
+    ],
+    "lifelist": [
+      {
+        "id": "20220323001545",
+        "type": "1",
+        "created": 0,
+        "title": "凌晨強震威力等同20顆原子彈 學者揭1關鍵：不是壞事",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T10:37:15",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001580.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001545-260405"
+      },
+      {
+        "id": "20220323001808",
+        "type": "1",
+        "created": 0,
+        "title": "來台5年爆肥18公斤 混血正妹淚「親媽認不出我」",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:03:35",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001903.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001808-260405"
+      },
+      {
+        "id": "20220323001632",
+        "type": "1",
+        "created": 0,
+        "title": "人在震央多恐怖？豐濱狂晃震撼影片曝 一路震到早上",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T11:03:24",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001650.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001632-260405"
+      },
+      {
+        "id": "20220323001237",
+        "type": "1",
+        "created": 0,
+        "title": "超異常！密集群震＋強震 專家：台灣恐進入地震活躍期",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T08:19:15",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001245.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001237-260405"
+      },
+      {
+        "id": "20220323001399",
+        "type": "1",
+        "created": 0,
+        "title": "花蓮玉里民宅災情曝  他驚：搖晃後全是玻璃碎裂聲音 ",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 1,
+        "publishDatetime": "2022-03-23T10:37:28",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001401.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001399-260405"
+      }
+    ],
+    "starlist": [
+      {
+        "id": "20220323002008",
+        "type": "1",
+        "created": 0,
+        "title": "意外痛失第二胎愛女 毛加恩嬌妻淚曝嚴重病況：發現怪怪的",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:27:50",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323002014.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323002008-260404"
+      },
+      {
+        "id": "20220323001945",
+        "type": "1",
+        "created": 0,
+        "title": "半夜6.6地震尪掀921陰影喊快跑 女星淡定1句話網推爆",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:23:36",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001961.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001945-260404"
+      },
+      {
+        "id": "20220323001992",
+        "type": "1",
+        "created": 0,
+        "title": "伊能靜額頭冒白點是整形後遺症？她不忍了揭真實原因",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T11:22:01",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001996.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001992-260404"
+      },
+      {
+        "id": "20220323001908",
+        "type": "1",
+        "created": 0,
+        "title": "福原愛偷吃橫濱男關鍵原因曝光 全因從江宏傑身上找不到這一點",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T10:57:05",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001918.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001908-260404"
+      },
+      {
+        "id": "20220323001298",
+        "type": "1",
+        "created": 0,
+        "title": "瘦子爆登記結婚成人夫 低調宴客傳嬌妻肚皮有動靜",
+        "authorName": null,
+        "content": "",
+        "catShowIds": [
+          260404
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T08:39:59",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-23/656/20220323001308.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220323001298-260404"
+      }
+    ],
+    "hotComment": [
+      {
+        "title": "72歲國寶級喜劇演員顧寶明驚傳病逝",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319001686-260404",
+        "type": "1"
+      },
+      {
+        "title": "悼念顧寶明卻突批評政府 李天柱：大家自求多福吧",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320002599-260404",
+        "type": "1"
+      },
+      {
+        "title": "「德東飆車王」害嬤慘死2女高生斷腿 家屬怒：不能放過他",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319001037-260402",
+        "type": "1"
+      },
+      {
+        "title": "停電都不是民進黨的錯？蘇貞昌反酸：藍營執政時每年3千多件",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220321004070-260407",
+        "type": "1"
+      },
+      {
+        "title": "民進黨還裝睡？拜登明確表態不挺台獨 網驚：817夢碎了",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220322001583-260407",
+        "type": "1"
+      },
+      {
+        "title": "綠委要求國考廢考國文後 最新民調結果超驚人",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220322004126-260407",
+        "type": "1"
+      },
+      {
+        "title": "男友傳來國道罰單 她看舉發照片笑哭：抓癢錯了嗎？",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320002176-260402",
+        "type": "1"
+      },
+      {
+        "title": "王美花又命中！台3線重要路口紅綠燈停電 禍首死在現場",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320001667-260405",
+        "type": "1"
+      }
+    ],
+    "saleslist1": [
+      {
+        "id": "20220314003343",
+        "type": "1",
+        "created": 1647324195000,
+        "title": "信義房屋首開儲備幹部職缺 保障年薪120萬起跳",
+        "authorName": "綜合報導",
+        "content": "校徵季起跑，各大企業把握機會前進校園招募新鮮人，國內房仲龍頭信義房屋拚轉型，為了加速建構出完整的「居家生活生態圈」，積極展開人才布局。除招募不動產經紀人員，也積極尋找數位科技人才，並首度啟動儲備幹部計",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-15T14:03:15",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-14/330/20220314003347.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220314003343-260405"
+      },
+      {
+        "id": "20211112001423",
+        "type": "1",
+        "created": 1615520883000,
+        "title": "社造團隊茁壯的推手 信義房屋獲頒文協獎章",
+        "authorName": "綜合報導",
+        "content": "台灣文化協會自1921年成立至今正好一百年，文化部為了感謝支持台灣文化深耕的文化協助者，11日特頒發文協獎章，得獎者橫跨藝文、教育、企業、社福等領域，包括台積電慈善基金會董事長張淑芬、奇美實業創辦人許",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-12T11:48:03",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-11-12/Miscellaneous/h20211112637723075004871882.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20211112001423-260410"
+      },
+      {
+        "id": "20210527002183",
+        "type": "1",
+        "created": 1605682479000,
+        "title": "信義房屋成逆境贏家 入選天下雜誌V型反轉TOP100企業",
+        "authorName": "綜合報導",
+        "content": "2021《天下》兩千大調查公布結果，信義房屋連續27年房仲業第一，今年天下雜誌更新增「韌性企業200強-V型反轉TOP100」排行，當中有十四家服務業入榜，信義房屋名列服務業第一，被天下雜誌列為202",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-11-18T14:54:39",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-05-27/Miscellaneous/h20210527637577123705579990.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210527002183-260410"
+      },
+      {
+        "id": "20211130003780",
+        "type": "1",
+        "created": 1615173526000,
+        "title": "全民社造行動計畫讓偏鄉小校化身「山村裡的遊樂園」",
+        "authorName": "綜合報導",
+        "content": "信義房屋全民社造行動計畫為全台影響力最大的社區營造支持計畫，今年提案也超過千件並選出3件首獎，其中，台南市東區大同國小師生與在地居民共同改造南台南火車站，不僅連結與社區的情感，也扭轉老車站因南鐵地下化",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-08T11:18:46",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-11-30/Miscellaneous/h20211130637738842856236407.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20211130003780-260410"
+      },
+      {
+        "id": "20210329001897",
+        "type": "1",
+        "created": 1616990161000,
+        "title": "信義房屋為減碳盡心力 響應｢地球一小時｣活動",
+        "authorName": "綜合報導",
+        "content": "國際環保盛事「Earth Hour 60+ 地球一小時」，訂定每年三月最後一個週六晚間8:30至9:30關燈，今年信義房屋共同響應，於3月27日以實際行動減碳愛地球，也號召更多企業及民眾加入，一同正視",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-29T11:56:01",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-03-29/330/20210329001905.png",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210329001897-260410"
+      },
+      {
+        "id": "20210615005210",
+        "type": "1",
+        "created": 1604031069000,
+        "title": "端午不返鄉 信義房屋X台北霞海城隍廟送香包祈福",
+        "authorName": "綜合報導",
+        "content": "全台疫情嚴峻，三級警戒再延長至6月底，信義房屋除了呼籲今年端午節民眾宅在家共同抗疫外，即日起也推出「信義慶端午城隍來保庇」線上活動，只要利用社區幫APP觀看祈福影片，6月30日前答題且分享影片，就可立",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-10-30T12:11:09",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-06-15/Miscellaneous/h20210615637593748074424899.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210615005210-260410"
+      },
+      {
+        "id": "20211116007534",
+        "type": "1",
+        "created": 1606890788000,
+        "title": "信義房屋慶40 ESG打造永續好生活",
+        "authorName": "綜合報導",
+        "content": "台灣房仲業龍頭信義房屋歡度40歲生日，16日舉辦「信義企業集團40周年暨台灣地方創生基金會成立」記者會，現場邀請眾多貴賓到場共襄盛舉，一同細數信義房屋40年來ESG(Environmental環境、S",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-12-02T14:33:08",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-15/Miscellaneous/h20220315637829194057456159.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20211116007534-260410?chdtv"
+      }
+    ],
+    "saleslist2": [
+      {
+        "id": "20200608002536",
+        "type": "1",
+        "created": 1591596050000,
+        "title": "未來若開放邊境 陳時中：外國人普篩陰性才准入境",
+        "authorName": "潘千詩",
+        "content": "\n\n\n\n邊境陸續開放，未來國人戴口罩是否為開邊境的關鍵？衛福部長陳時中今天表示，未來外籍人士入境將普篩，陰性才會准許入境，畢竟政府對外國人沒有醫療義務，若放發病案例進來，會成為社區防疫的破口。\n\n陳時",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-06-08T14:00:50",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-06-08/330/20200608001854.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200608002536-260405"
+      },
+      {
+        "id": "20200608002377",
+        "type": "1",
+        "created": 1591596083000,
+        "title": "疫情減少外出活動 醫師：若參加遶境要比往年更多準備",
+        "authorName": "陳淑娥",
+        "content": "大甲鎮瀾宮將於11日展開9天8夜媽祖遶境之旅，光田綜合醫院擔任大甲媽遶境醫護團隊數十年，骨科部醫師嚴可倫表示，由於疫情期間，民眾減少外出活動機會，若將跟隨媽祖遶境，尤其是長時間久走，建議民眾要比往年多",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-06-08T14:01:23",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-06-08/330/20200608002378.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200608002377-260405"
+      },
+      {
+        "id": "20200608002525",
+        "type": "1",
+        "created": 1591596019000,
+        "title": "戴口罩不只防飛沫 社交距離還會自動拉遠2倍",
+        "authorName": "鄭郁蓁、實習記者梅緣緣",
+        "content": "台大公衛今日舉辦抗COVID-19記者會指出，維持社交距離是第一防疫要務，可有效降低82％感染風險。院長詹長權與副院長陳秀熙指出，義大利研究民眾配戴口罩所帶來的防疫效果，實為因視覺刺激後而產生的社交距",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-06-08T14:00:19",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-06-08/330/20200608002526.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200608002525-260405"
+      },
+      {
+        "id": "20200608001420",
+        "type": "1",
+        "created": 1591595973000,
+        "title": "解禁後上班首日 北捷尖峰時段人人戴上口罩",
+        "authorName": "黃世麒",
+        "content": "國內新冠肺炎疫情趨緩，7日起大規模解禁防疫措施，其中大眾運輸部分，進入運具後，若可維持社交距離或適當阻隔設施，得不戴口罩，但進站仍得戴上口罩才能進入。\n\n8日是解禁後首個上班日，尖峰時段搭乘台北捷運的",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-06-08T13:59:33",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-06-08/330/20200608001421.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200608001420-260405"
+      },
+      {
+        "id": "20200607002657",
+        "type": "1",
+        "created": 1591595927000,
+        "title": "網購口罩開賣一周仍買不到 背後原因曝光",
+        "authorName": "尉遲佩玉、何立雯",
+        "content": "國內口罩解禁，開放網路販售一周以來，各大電商平台的醫療口罩幾乎一上架就被秒殺。許多人好奇，為何網路開賣已經一周，到現在仍搶不到？根據網友實際操作發現，原來通通都卡在這一關。\n近日來口罩蟬聯各網站的熱搜",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-06-08T13:58:47",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-06-07/330/20200607002660.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200607002657-260405"
+      },
+      {
+        "id": "20200607002263",
+        "type": "1",
+        "created": 1591595909000,
+        "title": "記錄每個關鍵時刻！「COVID-19臺灣防疫關鍵決策網」上線",
+        "authorName": "陳人齊",
+        "content": "中央流行疫情指揮中心今(7)日表示，全球受COVID-19(武漢肺炎)疫情肆虐，臺灣仍有效且快速地因應及控制，使疫情對民眾生活的影響降至最低。為記錄本次防疫經驗，衛生福利部特別整合中央及地方政府各項防",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-06-08T13:58:29",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-06-07/330/20200607002266.png",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200607002263-260405"
+      },
+      {
+        "id": "20200607002180",
+        "type": "1",
+        "created": 1591595855000,
+        "title": "解封首日零確診！疫情中心每日記者會今最終場",
+        "authorName": "中時/鄭郁蓁、陳人齊、中時電子報/尉遲佩玉、莊楚雯",
+        "content": "台灣防疫有成，中央流行疫情指揮中心連續召開半年的每日記者會將在今天寫下休止符，中洲科技大學今天共製作兩百個蛋糕致贈與會來賓與媒體，以及一個大蛋糕慶祝指揮中心抗疫有成，防疫五月天的最後一次每日記者會，同",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-06-08T13:57:35",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-06-07/330/20200607002186.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200607002180-260405"
+      }
+    ],
+    "saleslist3": [
+      {
+        "id": "20200517001718",
+        "type": "1",
+        "created": 1589789707000,
+        "title": "勞工繳稅沒的領 逃漏稅卻申請！邱顯智：紓困應檢討稅制公平性",
+        "authorName": "",
+        "content": "時代力量立委邱顯智周五接受記者專訪回應，台灣目前紓困狀況，的確有「勞工繳稅沒的領，沒繳稅的爽爽領」的不公平分配問題。長期來說，台灣的稅制必須要檢討，檢視地下經濟收不到稅的問題。",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-05-18T16:15:07",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-05-18/Miscellaneous/h20200518637254153045541804.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200517001718-260407"
+      },
+      {
+        "id": "20200514005397",
+        "type": "1",
+        "created": 1589789498000,
+        "title": "乖乖繳稅沒用？網友揭紓困驚人漏洞",
+        "authorName": "",
+        "content": "新冠肺炎疫情拖累經濟，蔡政府的紓困方案又不能露雨均霑，讓很多人看的到到吃不到，引起許多爭議。有網友曝光紓困亂象，指出政府的紓困正存在很大漏洞。",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-05-18T16:11:38",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-05-18/Miscellaneous/h20200518637254153157550001.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200514005397-260407"
+      },
+      {
+        "id": "20200514004542",
+        "type": "1",
+        "created": 1589789395000,
+        "title": "自提退休金注意！勞保局：報稅沒扣掉這可虧大了！",
+        "authorName": "",
+        "content": "五月報稅季節開始了，大家是否已去申報？還沒申報的勞工照過來，有項免稅權益千萬得注意，勞退自提額別忘了申報。勞保局提醒，報稅時請檢視個人薪資所得總額，若此筆未被扣除，可向國稅局分局或稽徵所更正。有內行人",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-05-18T16:09:55",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-05-18/Miscellaneous/h20200518637254149921480317.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200514004542-260405"
+      },
+      {
+        "id": "20200513002286",
+        "type": "1",
+        "created": 1589425297000,
+        "title": "同樣月薪4萬 他多領6萬股利稅金卻減半？",
+        "authorName": "",
+        "content": "免責警語：悟天的線上課程內容純粹為「個人存股心得」分享以及「研究紀錄」，內文所涉及之股票與SOP倍數，皆為悟天存股的思維與操作心得分享，並無推介特定股票以及特定價位買賣價位之用意，希望讀者能藉由悟天存",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-05-14T11:01:37",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-05-14/Miscellaneous/h20200514637250508892601939.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200513002286-260410"
+      },
+      {
+        "id": "20200504000090",
+        "type": "1",
+        "created": 1589425262000,
+        "title": "在陸所得須報稅 留意4項變動",
+        "authorName": "",
+        "content": "5月報稅季到來，但今年伴隨著新冠肺炎疫情的衝擊，恐怕會對納稅人產生不小負擔，主管機關也首次延長申報時間至6月30日。對於長期在大陸工作的台青、台幹更需留意，大陸地區所得非海外所得，據《兩岸人民關係條例",
+        "catShowIds": [
+          260301
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-05-14T11:01:02",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-05-14/Miscellaneous/h20200514637250508518045281.jpg",
+        "hyperLink": "https://www.chinatimes.com/newspapers/20200504000090-260301"
+      },
+      {
+        "id": "20200501002740",
+        "type": "1",
+        "created": 1589424791000,
+        "title": "網路報稅有「查詢碼」就行 免讀卡機10分鐘搞定",
+        "authorName": "",
+        "content": "108年度個人綜合所得稅申報按照往例從今（1）天起跑，而由於新冠肺炎（CODIV-19）疫情緣故，今年不僅報稅時間延長到6月30日，更強力推動運用網路報稅，降低前往國稅局以至於增加群聚的機會。不過要在",
+        "catShowIds": [
+          260412
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-05-14T10:53:11",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-05-14/Miscellaneous/h20200514637250503830861049.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200501002740-260412"
+      },
+      {
+        "id": "20200501001888",
+        "type": "1",
+        "created": 1589424741000,
+        "title": "所得稅申報第一天 申報等候區設社交距離",
+        "authorName": "",
+        "content": "所得稅申報今日是第一天，各地方國稅局配合今年的特殊情況，和新的報稅方式，開設了協助民眾辦理健保卡密碼申請、變更的窗口，申報人等候區的座位安排，依社交距離保持在1.5公尺，對防疫仍維持高度的警戒。",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-05-14T10:52:21",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-05-14/Miscellaneous/h20200514637250503324016158.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20200501001888-260405"
+      }
+    ],
+    "saleslist4": [
+      {
+        "id": "20210705000862",
+        "type": "1",
+        "created": 1625444639000,
+        "title": "獨》北市某國宅成熱區 住戶爆「確診者在環南市場工作」",
+        "authorName": "王嘉慶",
+        "content": "台北市疫情成了全國矚目焦點，傳出中正區某社區有10多人確診，成了市府認定的「熱區」，將執行社區廣篩，揪出未曝光確診者。當地住戶爆料，社區確診早在5月就有了，多為家戶感染，不解「怎麼現在才來篩，當時確診",
+        "catShowIds": [
+          260405
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2021-07-05T08:23:59",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-07-05/330/20210705000871.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210705000862-260405"
+      },
+      {
+        "id": "20210702004419",
+        "type": "1",
+        "created": 1625219095000,
+        "title": "環南市場41例確診 總統：守住市場疫情前 不能有任何鬆懈",
+        "authorName": "曾薏蘋",
+        "content": "台北市環南市場在PCR檢測中發現41起陽性案例，蔡英文總統今表示，在守住環南市場這波疫情前，不能有任何鬆懈。\r\n總統今在臉書指出，台北市環南市場是當前需要關注的疫情熱區，中央也正全力支援；指揮中心已經",
+        "catShowIds": [
+          260407
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2021-07-02T17:44:55",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-07-02/Miscellaneous/h20210702637608158928431397.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210702004419-260407"
+      },
+      {
+        "id": "0",
+        "type": "6",
+        "created": 1598759176000,
+        "title": "溫仔圳房市特輯",
+        "authorName": "",
+        "content": "以消費者的切身立場，鉅細靡遺的考量使用者生活起居的每一個細節，從建築規劃、施工過程，到交屋後售後客服的每個環節，預先規劃，層層把關，達到「創造好宅」的建設理念。",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-08-30T11:46:16",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-02-25/Miscellaneous/h20210225637498470369806471.jpg",
+        "hyperLink": "https://bit.ly/3jw73Od"
+      },
+      {
+        "id": "20210312001652",
+        "type": "1",
+        "created": 1615515243000,
+        "title": "旺House》售服中心喬遷 太陽帝國進入完銷倒數",
+        "authorName": "邱立",
+        "content": "新北市中永和一代開發早，區域內許多建物的屋齡超過40年，且由於人口稠密緣故，建商想整合一塊大面積的建地難度較高，因此當地新推建案，基地面積多在300~400坪之間。美聯開發經過多年協調，於景新街整合一",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2021-03-12T10:14:03",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2021-03-12/330/20210312001665.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20210312001652-260410"
+      },
+      {
+        "id": "20201201002290",
+        "type": "1",
+        "created": 1606794049000,
+        "title": "旺House》農16成商業熱門區 京城集團推A級商辦引企業關注",
+        "authorName": "朱立君",
+        "content": "從2018年起中美貿易戰開打，至今持續延燒，再加上今年新冠疫情肆虐，影響到企業營運方針，從原本低成本導向，轉變為低風險考量，不少長年在外工作的台商選擇帶著大筆資金回到國內，並開始尋覓合適的商辦設立據點",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-12-01T11:40:49",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-12-01/330/20201201002297.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20201201002290-260410"
+      },
+      {
+        "id": "20201125001668",
+        "type": "1",
+        "created": 1606269748000,
+        "title": "旺House》百萬自備款買新北三房 神采飛洋賣破七成",
+        "authorName": "朱立君",
+        "content": "近期新北市五股洲子洋重劃區建設不斷，從設置產業園區，到規劃中的五泰輕軌，同時擁親水的大台北都會公園，讓五股成為房市熱門區，其中多為三重、蘆洲移居過來，剛成家不久的青年首購族，在租金漲個不停的情況下，普",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-11-25T10:02:28",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-11-25/330/20201125001673.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20201125001668-260410"
+      },
+      {
+        "id": "20201104003740",
+        "type": "1",
+        "created": 1604475008000,
+        "title": "旺House》北市蛋黃區打造豪宅規格？築億丰盛堅持頂級品質",
+        "authorName": "朱立君",
+        "content": "「想在台北買房子，必須不吃不喝好幾年；想在台北買好房子，必須不吃不喝好幾十年。」一句話道盡所有想在台北市置產族群的心聲。由於台北已開發多年，在交通與商圈部分均發展成熟，房價自然居高不下，若打算買在黃金",
+        "catShowIds": [
+          260410
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2020-11-04T15:30:08",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2020-11-04/330/20201104003754.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20201104003740-260410"
+      }
+    ],
+    "livelist": [
+      
+    ],
+    "livelist2": [
+      {
+        "id": "0",
+        "type": "6",
+        "created": 1551260481000,
+        "title": "影音直播2019PC首頁右側影音直播",
+        "authorName": "",
+        "content": "<!--浮動式影音播放視窗開始-->\n<div class=\"floating-video-player\" data-state=\"static\">\n    <div class=\"video-container\">\n        <!---Youtube影音嵌入碼開始-->\n        <script src=\"https://www.youtube.com/iframe_api\"></script>\n        <script>\n            $(function () {\n                var playerInstance;\n                window.onYouTubeIframeAPIReady = function () {\n                    var player;\n                    player = new YT.Player(\"video-p0\", {\n                        \"videoId\": \"lu_BJKxqGnk\",\n                        \"width\": \"100%\",\n                        \"height\": \"100%\",\n                        \"playerVars\": {\n                            \"autoplay\": 0,\n                            \"loop\": 0,\n                            \"controls\": 1,\n                            \"modestbranding\": 1,\n                            \"fs\": 1,\n                            \"cc_load_policty\": 0,\n                            \"iv_load_policy\": 3,\n                            \"rel\": 0,\n                            \"playsinline\": 1\n                        },\n                        \"events\": {\n                            \"onReady\": onPlayerReady\n                        }\n                    });\n                }\n\n                function onPlayerReady(event) {\n                }\n            });\n        </script>\n        <div id=\"video-p0\"></div>\n        <!---Youtube影音嵌入碼結束-->\n    </div>\n</div>\n<!--浮動式影音播放視窗結束-->",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2019-02-27T17:41:21",
+        "imgUrl": "",
+        "hyperLink": ""
+      },
+      {
+        "id": "0",
+        "type": "6",
+        "created": 1560840505000,
+        "title": "影音直播2019右側影音直播M版",
+        "authorName": "",
+        "content": "<!--浮動式影音播放視窗開始-->\n<div class=\"floating-video-player\" data-state=\"static\">\n    <div class=\"video-container\">\n        <!---Youtube影音嵌入碼開始-->\n        <script src=\"https://www.youtube.com/iframe_api\"></script>\n        <script>\n            $(function () {\n                var playerInstance;\n                window.onYouTubeIframeAPIReady = function () {\n                    var player;\n                    player = new YT.Player(\"video-p0\", {\n                        \"videoId\": \"lu_BJKxqGnk\",\n                        \"width\": \"100%\",\n                        \"height\": \"100%\",\n                        \"playerVars\": {\n                            \"autoplay\": 0,\n                            \"loop\": 0,\n                            \"controls\": 1,\n                            \"modestbranding\": 1,\n                            \"fs\": 1,\n                            \"cc_load_policty\": 0,\n                            \"iv_load_policy\": 3,\n                            \"rel\": 0,\n                            \"playsinline\": 1\n                        },\n                        \"events\": {\n                            \"onReady\": onPlayerReady\n                        }\n                    });\n                }\n\n                function onPlayerReady(event) {\n                }\n            });\n        </script>\n        <div id=\"video-p0\"></div>\n        <!---Youtube影音嵌入碼結束-->\n    </div>\n</div>\n<!--浮動式影音播放視窗結束-->",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2019-06-18T14:48:25",
+        "imgUrl": "",
+        "hyperLink": ""
+      }
+    ],
+    "livelist3": [
+      {
+        "id": "0",
+        "type": "6",
+        "created": 1551260518000,
+        "title": "2019首頁即影音直播",
+        "authorName": "",
+        "content": " <div class=\"col-md-6\">\n                                   <div class=\"thumb-photo video\">\n    <div class=\"cropper\">\n        <!--Anvato影音嵌入碼開始-->\n        <div id=\"anvato-live-video-p1\"></div>\n        <script data-anvp='{\"accessKey\": \"A9KwJqjaI8M0NDiD1BP8ToP6wBizXjO1\", \"video\": \"adst3YpgKVAL7pWj\", \"token\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiJhZHN0M1lwZ0tWQUw3cFdqIiwiaXNzIjoiQTlLd0pxamFJOE0wTkRpRDFCUDhUb1A2d0JpelhqTzEifQ.5AyHsYqIdytP93dlJRUYYhCQoibxFh4ZfNudbQ4aQQY\", \"mcp\":\"ONEMCP1\", \"pInstance\":\"anvato-live-video-p1\", \"autoplay\": false, \"volume\": 0, \"title\": \"中天亞洲台\", \"share\": false, \"width\": \"100%\", \"height\": \"100%\", \"poster\": \"https://static.chinatimes.com/images/2019/anvato-video-poster-ctiasia.jpg\", \"plugins\": {\"googleAnalytics\": {\"trackingId\": \"UA-123959537-19\", \"events\": {\"VIDEO_STARTED\": {\"alias\": \"videoStarted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_FIRST_QUARTILE\": {\"alias\": \"videoView25Checkpoint\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_MID_POINT\": {\"alias\": \"videoView50Checkpoint\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_THIRD_QUARTILE\": {\"alias\": \"videoView75Checkpoint\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_COMPLETED\": {\"alias\": \"videoComplete\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"AD_STARTED\": {\"alias\": \"adStarted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"AD_COMPLETED\": {\"alias\": \"adStarted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"ALL_ADS_COMPLETED\": {\"alias\": \"allAdsCompleted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"AD_CLICKED\": {\"alias\": \"adClicked\", \"category\": \"interaction: video\", \"label\": \"[[TITLE]]\"}}}, \"dfp\": {\"clientSide\": {\"adTagUrl\": \"https://pubads.g.doubleclick.net/gampad/ads?iu=/81206261/ctiasia_PreRoll_640x480&description_url=http%3A%2F%2Fwww.chinatimes.com&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1\"}}}}' src=\"//w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js\" defer></script>\n        <!--Anvato影音嵌入碼結束-->\n    </div>\n</div>\n<div class=\"caption\">\n    <h2 class=\"caption-title\"><a href=\"https://ctiasia.chinatimes.com/\" target=\"_blank\">影音最即時 中天亞洲台</a></h2>\n</div>\n\n                                </div>\n",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2019-02-27T17:41:58",
+        "imgUrl": "",
+        "hyperLink": ""
+      },
+      {
+        "id": "0",
+        "type": "6",
+        "created": 1551668158000,
+        "title": "即影音直播M版",
+        "authorName": "",
+        "content": " <div class=\"col-md-6\">\n                                    <div class=\"thumb-photo video\">\n                                        <div class=\"cropper\">\n                                            <!--Anvato直播開始-->\n                                            <div class=\"anvato-live-video\">\n                                                <div class=\"video-container\">\n                                                    <!--Anvato影音嵌入碼開始-->\n                                                    <div id=\"anvato-live-video-p1\"></div>\n                                                    <script data-anvp='{\"accessKey\": \"A9KwJqjaI8M0NDiD1BP8ToP6wBizXjO1\", \"video\": \"adst3YpgKVAL7pWj\", \"token\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiJhZHN0M1lwZ0tWQUw3cFdqIiwiaXNzIjoiQTlLd0pxamFJOE0wTkRpRDFCUDhUb1A2d0JpelhqTzEifQ.5AyHsYqIdytP93dlJRUYYhCQoibxFh4ZfNudbQ4aQQY\", \"mcp\":\"ONEMCP1\", \"pInstance\":\"anvato-live-video-p1\", \"autoplay\": false, \"volume\": 0, \"title\": \"中天亞洲台\", \"share\": false, \"width\": \"100%\", \"height\": \"100%\",\"initialBitrate\": 300, \"autoBitrateSwitch\": false, \"poster\": \"https://static.chinatimes.com/images/2019/anvato-video-poster-ctiasia.jpg\", \"plugins\": {\"googleAnalytics\": {\"trackingId\": \"UA-123959537-19\", \"events\": {\"VIDEO_STARTED\": {\"alias\": \"videoStarted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_FIRST_QUARTILE\": {\"alias\": \"videoView25Checkpoint\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_MID_POINT\": {\"alias\": \"videoView50Checkpoint\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_THIRD_QUARTILE\": {\"alias\": \"videoView75Checkpoint\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"VIDEO_COMPLETED\": {\"alias\": \"videoComplete\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"AD_STARTED\": {\"alias\": \"adStarted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"AD_COMPLETED\": {\"alias\": \"adStarted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"ALL_ADS_COMPLETED\": {\"alias\": \"allAdsCompleted\", \"category\": \"video\", \"label\": \"[[TITLE]]\"}, \"AD_CLICKED\": {\"alias\": \"adClicked\", \"category\": \"interaction: video\", \"label\": \"[[TITLE]]\"}}}, \"dfp\": {\"clientSide\": {\"adTagUrl\": \"https://pubads.g.doubleclick.net/gampad/ads?iu=/81206261/ctiasia_PreRoll_640x480&description_url=http%3A%2F%2Fwww.chinatimes.com&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1\"}}}}' src=\"//w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js\" defer></script>\n                                                    <!--Anvato影音嵌入碼結束-->\n                                                </div>\n                                            </div>\n                                            <!--Anvato直播結束-->\n                                        </div>\n                                    </div>\n                                    <div class=\"caption\">\n                                        <h2 class=\"caption-title\"><a href=\"https://ctiasia.chinatimes.com/\" target=\"_blank\">影音最即時 中天亞洲台</a></h2>\n                                    </div>\n                                </div>\n",
+        "catShowIds": [
+          0
+        ],
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "2019-03-04T10:55:58",
+        "imgUrl": "",
+        "hyperLink": ""
+      }
+    ],
+    "albumDeep": [
+      {
+        "id": "20220308002591",
+        "type": "7",
+        "title": "「酷龍」具俊曄出關直奔大S豪宅  度過新婚夜重溫往日情",
+        "content": null,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T03:30:32",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-14/656/20220314002843.jpg",
+        "hyperLink": "https://www.chinatimes.com/album/BarbieHsuClon/20220308002591-262207",
+        "categoryName": null,
+        "categoryUrl": null,
+        "catShowIds": [
+          262207
+        ]
+      },
+      {
+        "id": "20220320000029",
+        "type": "1",
+        "title": "具俊曄出關隨即抵大S豪宅 睽違20年重溫往日情",
+        "content": "大S在本月8日閃婚20多年前舊愛「酷龍」具俊曄，隔日男方就跨海追愛飛抵台灣，入住一晚要價8000元以上的防疫飯店「瀚寓酒店」；經過10天的隔離，具俊曄在今（20日）凌晨搭車離開飯店，之後便隨即前往大S",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-21T08:17:44",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-20/656/20220320000030.png",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320000029-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220320003165",
+        "type": "1",
+        "title": "大S具俊曄下周開記者會？經紀人說話了 曝兩人新婚真實狀況",
+        "content": "具俊曄20日凌晨隔離期滿，隨即就驅車前往愛妻大S住處，開始新婚生活，韓媒更指出，具俊曄下周將和大S召開共同記者會，公開兩人決定結婚的理由，對此，大S經紀人回應了。\r\n\r\n韓媒《日間體育》報導，具俊曄計",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-21T08:17:27",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-20/656/20220320003167.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320003165-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220319002188",
+        "type": "1",
+        "title": "具俊曄讀秒倒數和大S見面 小S認：想看真人版韓劇上演",
+        "content": "大S因「電話號碼20年沒換」與韓團「酷龍」成員具俊曄舊情復燃閃婚，具俊曄9日以「大S老公」身分高調撲台，礙於目前防疫規定，他一下飛機後就入住防疫飯店瀚寓酒店，如今隔離期將在明（20日）凌晨0點結束，身",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-21T08:15:27",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/656/20220319002189.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319002188-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220320001675",
+        "type": "1",
+        "title": "小S模仿光頭姐夫熱舞 曝大S新婚近況預告7天後招待他「這道菜」",
+        "content": "大S日前宣佈再婚，對象是20多年前的舊愛「酷龍」具俊曄，兩人已在南韓登記結婚，宣布婚訊後隔天，男方即以配偶身分飛奔來台，今凌晨結束10天隔離，出關後直奔大S居住的信義區豪宅，進行7天的自主隔離，夫妻兩",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-21T08:15:35",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-20/656/20220320001676.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320001675-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220320003165",
+        "type": "1",
+        "title": "大S具俊曄下周開記者會？經紀人說話了 曝兩人新婚真實狀況",
+        "content": "具俊曄20日凌晨隔離期滿，隨即就驅車前往愛妻大S住處，開始新婚生活，韓媒更指出，具俊曄下周將和大S召開共同記者會，公開兩人決定結婚的理由，對此，大S經紀人回應了。\r\n\r\n韓媒《日間體育》報導，具俊曄計",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-20T21:10:00",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-20/450/20220320003167.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320003165-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220320000029",
+        "type": "1",
+        "title": "具俊曄出關隨即抵大S豪宅 睽違20年重溫往日情",
+        "content": "大S在本月8日閃婚20多年前舊愛「酷龍」具俊曄，隔日男方就跨海追愛飛抵台灣，入住一晚要價8000元以上的防疫飯店「瀚寓酒店」；經過10天的隔離，具俊曄在今（20日）凌晨搭車離開飯店，之後便隨即前往大S",
+        "bVideo": 1,
+        "publishDatetime": "2022-03-20T00:09:59",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-20/450/20220320000030.png",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220320000029-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220319002289",
+        "type": "7",
+        "title": "顧寶明驟逝最後身影曝光 蔡康永昔刪他戲份成遺憾",
+        "content": null,
+        "bVideo": 0,
+        "publishDatetime": "2022-03-23T03:30:34",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/656/20220319002290.jpg",
+        "hyperLink": "https://www.chinatimes.com/album/PaomingKu/20220319002289-262207",
+        "categoryName": null,
+        "categoryUrl": null,
+        "catShowIds": [
+          262207
+        ]
+      },
+      {
+        "id": "20220319001686",
+        "type": "1",
+        "title": "72歲國寶級喜劇演員顧寶明驚傳病逝",
+        "content": "72歲國寶級喜劇演員顧寶明驚傳病逝，他的妻子和小孩都陪伴在旁，家人、親友及戲迷們都感到不捨。\r\n\r\n果陀導演梁志民稍早在臉書證實，寫道「我們敬愛的顧寶明寶哥，在今天早上因心肺衰竭，告別了人生舞台。我們",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-19T15:21:53",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/656/20220319001696.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319001686-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220319001781",
+        "type": "1",
+        "title": "顧寶明舞台劇最後身影曝光 台下滿場掌聲鞠躬畫面惹人淚",
+        "content": "72歲國寶級喜劇演員顧寶明驚傳病逝，他的妻子和小孩都陪伴在旁，家人、親友及戲迷們都感到不捨。果陀導演梁志民稍早在臉書證實，寫道「我們敬愛的顧寶明寶哥，在今天早上因心肺衰竭，告別了人生舞台。」他隨後上傳",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-19T15:22:06",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/656/20220319001786_20220319130837.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319001781-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220319002125",
+        "type": "1",
+        "title": "顧寶明生日前夕病逝 臉書最後動態曝光網全淚崩",
+        "content": "國寶級喜劇演員顧寶明今(19日)病逝，享壽72歲，妻子和小孩都陪伴左右，伴他走完人生最後一程，而他臉書最後發文也曝光，就是去年4月生日和親友吃飯的慶生照，當時氣色看起來頗佳，如今再傳出他的消息，卻已經",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-19T15:22:17",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/656/20220319002136.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319002125-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220319002084",
+        "type": "1",
+        "title": "首部執導電影刪光顧寶明 蔡康永「親自道歉」喊遺憾",
+        "content": "喜劇泰斗顧寶明心肺衰竭過世，享壽72歲，蔡康永19日出席「影視聽名人堂」活動，提到自己首部執導的電影《吃吃的愛》，當初費了很大的力氣請到顧寶明演出，但後來因為劇情的改變無法把他演出的部分剪進去，「我有",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-19T15:22:24",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/656/20220319002085.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319002084-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220319002125",
+        "type": "1",
+        "title": "顧寶明生日前夕病逝 臉書最後動態曝光網全淚崩",
+        "content": "國寶級喜劇演員顧寶明今(19日)病逝，享壽72歲，妻子和小孩都陪伴左右，伴他走完人生最後一程，而他臉書最後發文也曝光，就是去年4月生日和親友吃飯的慶生照，當時氣色看起來頗佳，如今再傳出他的消息，卻已經",
+        "bVideo": 1,
+        "publishDatetime": "2022-03-19T14:21:00",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/450/20220319002161.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319002125-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      },
+      {
+        "id": "20220319002102",
+        "type": "1",
+        "title": "楊貴媚聞顧寶明死訊 震驚不已",
+        "content": "楊貴媚今（19日）帶領施名帥、林柏宏、黃瀞怡(小薰)出席公視《阮三个3》快閃店活動，談到今早因心肺衰竭病逝享壽72歲的顧寶明時，直言自己在得知消息時嚇了一跳，相當驚訝，她透露兩人雖然很久沒有聯繫，但對",
+        "bVideo": 0,
+        "publishDatetime": "2022-03-19T14:27:33",
+        "imgUrl": "https://images.chinatimes.com/newsphoto/2022-03-19/450/20220319002103.jpg",
+        "hyperLink": "https://www.chinatimes.com/realtimenews/20220319002102-260404",
+        "categoryName": "星聞",
+        "categoryUrl": "/album/album-star",
+        "catShowIds": [
+          260404
+        ]
+      }
+    ],
+    "aDlist": [
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "2022礁溪龍潭湖-第二屆熱氣球嘉年華  繫留體驗俯瞰湖面美景 精采絕倫光雕盛宴",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10889"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "藝人御用彩妝師創辦.  全新保養型美妝品牌 SOMEI",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10888"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "重新感受年輕的悸動 The Clydeside克萊薩蘇格蘭威士忌限量上市",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10887"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "發展永續金融  全球人壽投入再生能源投融資項目資金將達170億元",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10886"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "台灣平面設計軟體Monkey Color火熱推出，發揚台灣本土文化",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10885"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "打造居家便利生活、就差這一步！宥勝進駐AiLock智慧鎖當一日店長、帶逛兼分享超有感心得",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10884"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "柏瑞投信：投資價值浮現，透過環球重點股票策略夯主題全掌握",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10883"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "援助烏克蘭物資!友華生技捐百箱卡洛塔妮羊奶粉",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10882"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "RX 300 曜黑時尚版 40期零利率即刻入主",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "https://bit.ly/3HMpCt9"
+      },
+      {
+        "id": "",
+        "type": "6",
+        "created": 0,
+        "title": "淬鍊百年美容護理科技！ 【資生堂專業美髮】盛大進駐momo旗艦館",
+        "authorName": null,
+        "content": null,
+        "catShowIds": null,
+        "bCaptionOnPic": 0,
+        "bVideo": 0,
+        "publishDatetime": "0001-01-01T00:00:00",
+        "imgUrl": null,
+        "hyperLink": "http://act.chinatimes.com/market/content.aspx?AdID=10880"
+      }
+    ],
+    "homepageActivity": {
+      "title": "罷免開票",
+      "url": "https://www.chinatimes.com/album/0109/20211228005067-262201",
+      "imgUrl": "https://static.chinatimes.com/images/2020/wantapp/top-bar-promote/banner-2022recallvote.png",
+      "type": 0,
+      "color": "#848484",
+      "colorFont": "#e6e6e6"
+    },
+    "videoAreas": [
+      {
+        "id": 1,
+        "channelID": "5",
+        "show": 1,
+        "title": "YT直播",
+        "stream": "https://www.youtube.com/watch?v=4oigSGSDwNQ",
+        "thumbnail": "https://static.chinatimes.com/images/2019/video-poster/video-poster-2020-love-sharing-party.jpg",
+        "newThumbnail": "https://static.chinatimes.com/images/2019/video-poster/video-poster-2020-love-sharing-party.jpg",
+        "prerollAdUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/81206261/52Live_PreRoll_640x480&description_url=http%3A%2F%2Fwww.chinatimes.com&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1",
+        "startdate": 1609491600000,
+        "enddate": 1767175200000
+      },
+      {
+        "id": 2,
+        "channelID": "6",
+        "show": 1,
+        "title": "中天電視",
+        "stream": "https://www.youtube.com/watch?v=lu_BJKxqGnk",
+        "thumbnail": "https://static.chinatimes.com/images/2020/anvato-video-poster-ctinews.jpg",
+        "newThumbnail": "https://static.chinatimes.com/images/2020/wantapp/banner-ctitv24hr.jpg",
+        "prerollAdUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/81206261/52Live_PreRoll_640x480&description_url=http%3A%2F%2Fwww.chinatimes.com&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1",
+        "startdate": 1609465200000,
+        "enddate": 1735569900000
+      },
+      {
+        "id": 3,
+        "channelID": "8",
+        "show": 1,
+        "title": "中天亞洲台",
+        "stream": "https://www.youtube.com/watch?v=-2WdDB2O4G4",
+        "thumbnail": "https://static.chinatimes.com/images/2019/anvato-video-poster-ctiasia.jpg",
+        "newThumbnail": "https://static.chinatimes.com/images/2019/anvato-video-poster-ctiasia.jpg",
+        "prerollAdUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/81206261/52Live_PreRoll_640x480&description_url=http%3A%2F%2Fwww.chinatimes.com&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1",
+        "startdate": 1609504620000,
+        "enddate": 1735659420000
+      }
+    ]
+  }
+}
